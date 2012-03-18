@@ -11,3 +11,8 @@ Requires d3 - js is included but d3 has its own dependencies (npm, node and vows
 	$ python -m SimpleHTTPServer 8888 
 
 Then navigate to localhost:8888 and look for bubble.html.  
+
+Output
+------
+
+![screenshot](https://github.com/lchi/hackruiter-d3/raw/master/sample.png)
